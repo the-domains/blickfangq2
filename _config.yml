@@ -1,7 +1,7 @@
 name: blickfangQ2
 favicon: null
 layout_spectrum: 0.7588843945413828
-typography_spectrum: 0.06164423003792763
+typography_spectrum: 0.57885
 title: blickfangQ2
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.3811393277719617
   lightness: 0.47937317308969796
   saturation: 0.6364141351077706
-  rhythmicContrast: 0.31889396836049855
+  rhythmicContrast: 0.5
 purpose: []
