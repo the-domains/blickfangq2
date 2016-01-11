@@ -1,29 +1,41 @@
-name: blickfangQ2
-favicon: null
-layout_spectrum: 0.7588843945413828
-typography_spectrum: 0.57885
 title: blickfangQ2
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.6364141351077706
+  brandStrength: 0.3811393277719617
+  rhythmicContrast: 0.5
   brandColors:
     - '#000000'
     - '#f6f5ef'
     - '#c7c3b7'
     - '#625a50'
     - '#a7a194'
-  brandStrength: 0.3811393277719617
-  lightness: 0.47937317308969796
-  saturation: 0.6364141351077706
-  rhythmicContrast: 0.5
-purpose: []
+  lightness: 0.479373173089698
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: blickfangQ2
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.57885
+layout_spectrum: 1
