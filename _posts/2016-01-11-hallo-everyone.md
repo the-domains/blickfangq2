@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-11T18:26:28.614Z'
-dateModified: '2016-01-11T18:26:10.895Z'
+datePublished: '2016-01-11T18:28:15.441Z'
+dateModified: '2016-01-11T18:27:31.589Z'
 title: 'Hallo everyone!'
 author: []
 authors: []
