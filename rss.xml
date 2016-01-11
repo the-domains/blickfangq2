@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[blickfangQ2]]></title>
         <description><![CDATA[blickfangQ2]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/blickfangq2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 18:26:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 18:28:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/blickfangq2/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hallo everyone!]]></title>
             <description><![CDATA[<article><h1>Hallo everyone!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aec1d7403ceb11c9febd6e48929bda0c2e0cedf2.jpg"></article>]]></description>
-            <link>undefinedhallo-everyone/index.html</link>
+            <link>https://thegrid.ai/blickfangq2/hallo-everyone/index.html</link>
             <guid isPermaLink="false">07eba18b-3f35-4c77-8ba8-e083684f799b</guid>
-            <pubDate>Mon, 11 Jan 2016 18:26:28 GMT</pubDate>
+            <pubDate>Mon, 11 Jan 2016 18:28:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
